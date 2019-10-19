@@ -1,0 +1,86 @@
+.top-container {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+	}
+	.content {
+        padding: 16px;
+	}
+
+	 h1, h2, h3, h4, body, div {
+		 font-family:"Segoe UI Light", Tahoma, Geneva, sans-serif;
+		 font-weight:lighter;
+ 		 text-align:center;
+		 line-height:0.9;
+		 color:black;
+     }
+	 
+	 h1 {
+	 	font-size:2em;
+	 }
+	 
+	 h2 {
+	 	font-size:1.5em;
+	 }
+	 
+	 h3 {
+	 	font-size:1em;
+	 }
+	
+	 body {
+		/*background-image:url(img/background-bright1.jpg);*/
+		background-repeat:no-repeat;
+		background-attachment:fixed;
+	  background-size:100%;
+		margin:0em;
+	 }
+	 
+	 div {
+ 	 	font-family:"Segoe UI Light", Tahoma, Geneva, sans-serif;
+ 	 	font-weight:lighter;
+ 		text-align:center;
+		font-size:1em;
+		width:90%; 
+		line-height:2;
+		margin:2.5em auto; 
+		/* background-color:#FFFFFF; */
+		opacity:0.9;
+ }
+
+	 img {
+	  position:relative;
+		display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+		opacity:1.0;
+	 }
+	 
+	 button {
+	 	padding: 1em 2em;
+		margin:1.25em;
+		background-color:#708090;
+		border: none;
+		border-radius:0.25em;
+		font-size:0.925em;
+		color:white;
+		cursor:pointer;
+	 }
+	 
+	 table {
+		 font-family:"Segoe UI Light", Tahoma, Geneva, sans-serif;
+		 font-weight:lighter;
+ 		 text-align:center;
+		 line-height:1.5;
+		 margin-left:auto;
+		 margin-right:auto;	
+	 }
+	 
+	 table {
+	 	width:40%;
+	 }
+	 
+	 tr,td {
+		 text-align:right;
+		 padding:0.625em 1em;
+		 vertical-align: top;
+	 }
